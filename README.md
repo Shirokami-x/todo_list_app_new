@@ -19,4 +19,9 @@ TODOLIST_app
 -with Flutter as the framework and Dart as the main language
 
 ##### How to download and operate this application by
--by using git clone 
+-by using git clone https://github.com/Shirokami-x/todo_list_app_new.git
+-by downloading the available zip, then extracting it and running it in vscode
+-don't forget to run flutter pub get
+
+###### How to run is in the demo below
+
