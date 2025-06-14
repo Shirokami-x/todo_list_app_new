@@ -19,4 +19,4 @@ TODOLIST_app
 -with Flutter as the framework and Dart as the main language
 
 ##### How to download and operate this application by
--
+-by using git clone 
