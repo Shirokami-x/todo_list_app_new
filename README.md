@@ -24,4 +24,8 @@ TODOLIST_app
 -don't forget to run flutter pub get
 
 ###### How to run is in the demo below
+-You can see the demo video from this drive link.
+ https://drive.google.com/file/d/14X5GGMETclTeaDGGBPe-f7Lv41L4hgVr/view?usp=drive_link
 
+ ####### Creator's identity
+ -Let me introduce myself, I am Alif Razan Setiawan from a vocational high school, taking the software engineering major 1.
