@@ -1,16 +1,22 @@
-# todolist_app
+# application title:
+TODOLIST_app
 
-A new Flutter project.
+## Application Description
+-there is a registration page at the beginning of the start
+-An email from Supabase is available that authenticates the email from the registration; when the link provided is clicked, it redirects to a certain page, but that page does not connect, meaning the authentication was successful.
+-log in with email and password
+-when you have successfully logged in, a separator will appear between completed tasks and those not yet completed
+-there is an add button that will add the tasks owned
+-there is a profile button that when pressed will show the user's information
+-When adding a task, there will be options to finish, edit, or delete.
+-to log out is in the user profile section
 
-## Getting Started
+### The database that I use
+-The database I am using is Supabase.(https://supabase.com/)
 
-This project is a starting point for a Flutter application.
+#### The software that I use
+-The software I use to build this application is vscode.
+-with Flutter as the framework and Dart as the main language
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##### How to download and operate this application by
+-
